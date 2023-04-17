@@ -1,6 +1,6 @@
 ## I'm a QA Engineer. 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+
+### [My CV](https://drive.google.com/file/d/1kZp7bQd1mdnPP6x2uk4yyRKtVXzzionK/view?usp=sharing)
 
 
 
@@ -16,6 +16,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=Appium&logoColor=8cc4d7)
 
 ### Testing Documentation
 
