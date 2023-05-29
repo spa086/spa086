@@ -2,8 +2,8 @@
 
 ### [My CV](https://drive.google.com/file/d/1kZp7bQd1mdnPP6x2uk4yyRKtVXzzionK/view?usp=sharing)
 
-
-
+#### I'm just trying to get Hal to deploy this awesome project.
+![](https://media.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -18,14 +18,12 @@
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=Appium&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Ansible-090909?style=for-the-badge&logo=Ansible&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=8cc4d7)
 
-### Testing Documentation
 
-- [Checklists](https://github.com/spa086/checklist)
-- [Test-Suites and Test-Cases](https://github.com/spa086/test-cases)
-- [Bug-Reports](https://github.com/spa086/bug-reports)
-- [SQL Queries](https://github.com/spa086/SQL)
-- [Postman Collections](https://github.com/spa086/postman)
+
+
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/dev_02)
