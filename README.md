@@ -3,9 +3,10 @@
 ### [My CV](https://drive.google.com/file/d/1kZp7bQd1mdnPP6x2uk4yyRKtVXzzionK/view?usp=sharing)
 
 #### I'm just trying  to deploy this awesome project.
-//![](https://media.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
+![](https://i.gifer.com/XOsX.gif)
 
 ![](https://i.gifer.com/XOsX.gif)
+![](https://media.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
