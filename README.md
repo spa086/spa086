@@ -5,7 +5,7 @@
 #### I'm just trying  to deploy this awesome project.
 ![](https://media.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
-![](https://s11.gifyu.com/images/ScALR.gif)
+![](https://i.gifer.com/XOsX.gif)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
