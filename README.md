@@ -24,6 +24,7 @@
 ![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/OpenTofu-090909?style=for-the-badge&logo=OpenTofu&logoColor=8cc4d7)
 
 
 
